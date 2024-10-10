@@ -1,0 +1,17 @@
+{
+  "name": "beginbackend",
+  "version": "1.0.0",
+  "description": "starting backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "kuldeep",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
